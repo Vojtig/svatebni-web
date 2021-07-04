@@ -1,0 +1,41 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-shadow: 2px 2px 5px yellow;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+}
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: yellow;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  color: white;
+  background-color: black;
+}
+  #Banan {
+    border: 2px solid black;
+    background-image: url("Assets/BG.jpg");
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
